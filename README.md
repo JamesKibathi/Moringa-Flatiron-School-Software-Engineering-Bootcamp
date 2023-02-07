@@ -17,7 +17,9 @@ https://github.com/MoringaFlatiron - Features my experience during a coding boot
 
 - Project 4 : Devspedia App - ReactJS, Rails,PostgreSQL - Together with 4 other developers, we developed a fullstack application for junior developers to document their progress throughout the bootcamp -https://devspedia-frontend.vercel.app/
 
-- Project 5 : Moringa Alumni Community- JS and jQuery - in progress
+- Project 5 : Moringa Alumni Community- JS and jQuery - Together with 4 other developers, we created an alumni community for Moringa School. I was mainly responsible for backend development but I also assisted in fixing bugs on the frontend. Here are the repositories showing my contribution:
+ *https://github.com/Omari-Elizabeth/moringa-alumni-backend
+ *https://github.com/Omari-Elizabeth/moringa_alumni_community_client
 
 
 ## Topics covered
